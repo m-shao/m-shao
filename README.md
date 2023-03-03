@@ -1,6 +1,6 @@
 # 💫About Me :
-⌨️ I am currently working on a typing app website__
-💻 I am a front end high school developer__
+⌨️ I am currently working on a typing app website <br />
+💻 I am a front end high school developer <br />
 🍁 Canada
 
 
