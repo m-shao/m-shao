@@ -1,6 +1,8 @@
 # 💫About Me :
-I am currently working on a typing app website
-I am a high school developer interested in front end!
+⌨️ I am currently working on a typing app website
+💻 I am a front end high school developer
+🇨🇦 Canada
+
 
 
 # 💻Tech Stack
