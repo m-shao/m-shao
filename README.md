@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a typing app website<br>💻 I am a front end high school developer<br>🌱 I’m currently learning Vite, Node, Express, Typescript<br>💬 Ask me about React, Figma, Myself : )<br>⚡ Fun fact: I really like competitive video games :D<br>🍁 Ontario, Canada
+🔭 I'm currently working on a chat app<br>💻 I am a high school front end developer<br>🌱 I’m currently learning Typescript<br>💬 Ask me about React, Figma, Myself : )<br>⚡ Fun fact: I really like competitive video games :D<br>🍁 Ontario, Canada
 
 
 # 💻 Tech Stack:
