@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a chat app<br>💻 I am a high school front end developer<br>🌱 I’m currently learning Typescript<br>💬 Ask me about React, Figma, Myself : )<br>⚡ Fun fact: I really like competitive video games :D<br>🍁 Ontario, Canada
+🔭 I'm currently working on school<br>💻 I am a high school front end developer<br>🌱 I’m currently learning Typescript<br>💬 Ask me about React, Figma, Myself : )<br>⚡ Fun fact: I really like VALORANT :D :D<br>🍁 Ontario, Canada
 
 
 # 💻 Tech Stack:
