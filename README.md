@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on school<br>💻 I am a fullstack developer currently attending the University of Waterloo<br>🌱 I’m currently dying at university<br>💬 Ask me about Myself :) <br>⚡ Fun fact: I have made 5 portfolio websites in the past year<br>🍁 Ontario, Canada
+🔭 I'm currently working on school<br>💻 I am a fullstack developer currently attending the University of Waterloo<br>🌱 I’m currently working at Super.com<br>💬 Ask me about Myself :) <br>⚡ Fun fact: I have made 5 portfolio websites in the past year<br>🍁 Ontario, Canada
 
 
 # 💻 Tech Stack:
